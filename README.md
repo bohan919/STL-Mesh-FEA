@@ -4,4 +4,4 @@ The project aims to convert a given .stl file to voxelised numpy ndarray and hen
 The stl-mesh conversion is done through stl2vox_cpp.py
 
 NOTE:
-To run the stl2vox_cpp.py, VOXSURF needs to be installed. The installation instuction is inside the .py file.
+To run the stl2vox_cpp.py, VOXSURF needs to be installed. The installation instuction is inside the stl2vox_cpp.py file.
